@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/enumeracoes/enumeracoes.iml" filepath="$PROJECT_DIR$/enumeracoes/enumeracoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excecoes/excecoes.iml" filepath="$PROJECT_DIR$/excecoes/excecoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca-polimorfismo/heranca-polimorfismo.iml" filepath="$PROJECT_DIR$/heranca-polimorfismo/heranca-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-course-module-two.iml" filepath="$PROJECT_DIR$/.idea/java-course-module-two.iml" />
     </modules>
